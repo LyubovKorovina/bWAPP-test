@@ -106,7 +106,7 @@ function show_my_cookies()
 
 <div id="main">
     
-    <h1>Session Mgmt. - Cookies (HTTPOnly)</h1>
+    <h1>Session Mgmt. - Cookies (HTTPOnly)- MY CHANGES</h1>
     
     <form action="<?php echo($_SERVER["SCRIPT_NAME"]);?>" method="POST">
 
